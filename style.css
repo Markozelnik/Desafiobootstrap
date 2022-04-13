@@ -1,0 +1,5 @@
+/* aplicando color amarillo a las letras del navbar*/
+
+.amarillo{
+    text-decoration: rgb(204, 238, 13);
+}
