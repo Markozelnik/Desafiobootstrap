@@ -4,6 +4,12 @@
 .body{
     background-color: darkgoldenrod;
 }
+
+.h1p{
+    display: flex;
+    justify-content: center;
+    
+}
 .amarillo{
     text-decoration: rgb(204, 238, 13);
 }
