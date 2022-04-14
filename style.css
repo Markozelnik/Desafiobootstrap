@@ -8,8 +8,25 @@
 .h1p{
     display: flex;
     justify-content: center;
-    
+
 }
 .amarillo{
     text-decoration: rgb(204, 238, 13);
+}
+
+.h2p{ display: flex;
+      justify-content: center;
+
+}
+.pp{
+    margin: 10px 10px 10px 10px;
+}
+
+/*player html*/
+
+.h2s{ display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: rgb(215, 247, 38) ; 
+
 }
