@@ -30,6 +30,11 @@
     background-color: rgb(215, 247, 38) ; 
 
 }
-   /*aplicando css a fanpage.html*/
+   /*aplicando css a videos.html*/
 
-   
+   .divvideos{ margin: 10px 10px 10px 10px;
+               display: flex;
+               justify-content: space-around;
+
+   }
+
